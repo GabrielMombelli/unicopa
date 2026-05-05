@@ -13,7 +13,7 @@ export default function App() {
 
       if (!acc[data]) {
         acc[data] = []
-      }
+      } 
 
       acc[data].push(jogo)
 
